@@ -40,7 +40,7 @@ export default function Home() {
           </div>
 
           <img
-            src="https://bayoulifemag.com/wp-content/uploads/2021/11/2R1C1982_1-1024x683.jpg"
+            src="./67374.jpg"
             className="rounded-xl shadow-lg"
           />
 
